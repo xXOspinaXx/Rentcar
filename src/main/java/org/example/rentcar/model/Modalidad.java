@@ -39,5 +39,5 @@ public abstract class Modalidad {
     public void setEstado(EstadoModalidad estado) {this.estado = estado;}
 
     @Override
-    public String toString() { return nombre + "(" + codigo + ")"}
+    public String toString() { return nombre + "(" + codigo + ")";}
 }
