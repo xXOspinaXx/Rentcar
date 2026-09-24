@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="924cb32e-819b-439a-8d0c-f987112f9980" name="Changes" comment="creando clase abstracta, y sus extenciones">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/ModalidadFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Modalidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Modalidad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Premium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Premium.java" afterDir="false" />
+    <list default="true" id="924cb32e-819b-439a-8d0c-f987112f9980" name="Changes" comment="Creacion ModalidadFactory donde se van a crear todas las clases abstractas">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Reserva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/ServicioAdicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/rentcar/model/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790265875216</updated>
-      <workItem from="1790265876421" duration="6201000" />
+      <workItem from="1790265876421" duration="11024000" />
     </task>
     <task id="LOCAL-00001" summary="Esqueleto Proyecto con carpetas model, view, controller">
       <option name="closed" value="true" />
@@ -101,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790269710490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creando clase abstracta, y sus extenciones">
+      <option name="closed" value="true" />
+      <created>1790272128657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790272128657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creacion ModalidadFactory donde se van a crear todas las clases abstractas">
+      <option name="closed" value="true" />
+      <created>1790273268482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790273268482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Esqueleto Proyecto con carpetas model, view, controller" />
     <MESSAGE value="creando clase abstracta, y sus extenciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="creando clase abstracta, y sus extenciones" />
+    <MESSAGE value="Creacion ModalidadFactory donde se van a crear todas las clases abstractas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creacion ModalidadFactory donde se van a crear todas las clases abstractas" />
   </component>
 </project>
